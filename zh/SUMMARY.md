@@ -2,7 +2,7 @@
 
 * [What is a front-end developer?](what-is-a-FD.md)
 * [Part I: The front-end practice](practice.md)
-	* [Front-end jobs titles](practice/types-of-front-end-dev.md)
+	* [梁越 - 前端职位](practice/types-of-front-end-dev.md)
     * [Common web tech employed](practice/tech-employed-by-fd.md)
 	* [Front-end dev skills](practice/skills.md)
     * [Front-end devs develop for...](practice/fd-dev-for.md)
