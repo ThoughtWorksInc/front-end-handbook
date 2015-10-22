@@ -1,18 +1,20 @@
 # 前端职位
 
-Below is a list and description of various front-end job titles. The common, or most used (i.e. generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how.
+下面是一些不同的前端职位的列表和表述。最常见或者说常用的前端开发职位描述是“前端开发”和“前端工程师”。可以发现任何包含“前端”、“客户端”、“web UI”、“HTML”、“CSS”或者“JavaScript”的职位描述一般都指的那些对HTML、CSS、DOM和JavaScript有一定了解的人。
 
 ***
 
-**Front-end Developer/Engineer** (aka Front-end Web Developer/Engineer or Client-side Developer/Engineer or Front-end Software Developer/Engineer)
+**前端开发/前端工程师** （即前端Web开发/工程师、或客户端开发/工程师、或前端软件开发/工程师）
 
-The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+这是个通用的职位，用来描述掌握一定程度的HTML、CSS、DOM和JavaScript，并且可以将这些技术应用到web平台的开发人员。
 
 ***
 
-**CSS/HTML Developer**
+**CSS/HTML开发**
 
 The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and Application know how.
+
+这个前端职位指的是只会HTML和CSS，但没有掌握JavaScript和Application技巧的开发者。
 
 ***
 
