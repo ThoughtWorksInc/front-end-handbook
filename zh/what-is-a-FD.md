@@ -49,6 +49,10 @@ The most common solutions for webview development are:
 * [NW.js](https://github.com/nwjs/nw.js) (typically used for desktop apps)
 * [Electron](http://electron.atom.io/) (typically used for desktop apps)
 
+* [Cordova](https://cordova.apache.org/) (用于原生平板电脑与手机应用)
+* [NW.js](https://github.com/nwjs/nw.js) (用于桌面应用)
+* [Electron](http://electron.atom.io/) (用于桌面应用)
+
 Eventually, what is learned from web browser development can be used by front-end developers to craft code for environments that are not fueled by a browser engine. As of late, development environments are being dreamed up that use web technologies (e.g. CSS and JavaScript), without web engines, to create truly native applications.
 
 网页浏览器上的开发经验也逐渐地被前端工程师运用到无法运用浏览器的环境中。最新的技术为我们展现了一个可以不用网络引擎，只依靠网络技术（CSS和JavaScript）就开发真正的原生应用的前景。
