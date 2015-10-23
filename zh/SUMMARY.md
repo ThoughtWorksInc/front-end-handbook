@@ -1,6 +1,6 @@
 # Summary
 
-* [What is a front-end developer?](what-is-a-FD.md)
+* [若然 - 什么是前端工程师？](what-is-a-FD.md)
 * [Part I: The front-end practice](practice.md)
 	* [梁越 - 前端职位](practice/types-of-front-end-dev.md)
     * [Common web tech employed](practice/tech-employed-by-fd.md)
@@ -28,7 +28,7 @@
     	* [Learn DOM, BOM & jQuery](learning/dom.md)
         * [Learn web fonts](learning/fonts.md)
         * [Learn accessibility](learning/accessibility.md)
-        * [Learn web/browser API's](learning/web-api.md) 
+        * [Learn web/browser API's](learning/web-api.md)
         * [Learn JSON](learning/json.md)
         * [Learn JS templates](learning/json.md)
         * [Learn front-end app architecture](learning/front-end-apps.md)
@@ -39,8 +39,8 @@
         * [Learn module loader](learning/module.md)
         * [Learn package managers](learning/package-manager.md)
     	* [Learn version control](learning/version-control.md)
-        * [Learn build & task automation](learning/build.md) 
-        * [Learn site performance optimization](learning/perf.md) 
+        * [Learn build & task automation](learning/build.md)
+        * [Learn site performance optimization](learning/perf.md)
     	* [Learn JS testing](learning/test.md)
         * [Learn headless browsers](learning/headless-browsers.md)
         * [Learn offline dev](learning/offline.md)
@@ -82,10 +82,7 @@
     * [Offline tools](tools/offline.md)
     * [Security tools](tools/security.md)
 	* [Tasking (aka build) tools](tools/task.md)
-    * [Deployment tools](tools/deploy.md) 
+    * [Deployment tools](tools/deploy.md)
 	* [Site/app monitoring tools](tools/uptime.md)
     * [JS error monitoring tools](tools/error.md)
     * [Performance tools](tools/perf.md)
-
-
-
